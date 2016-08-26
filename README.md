@@ -29,7 +29,7 @@ Build the project:
 
 ```bash
 npm run clean
-npm run build
+npm run build:local
 ```
 
 `build` directory should be created during the build
