@@ -2,10 +2,8 @@
 
 ## [Switch to Angular4-Seed](https://github.com/AngularVN/angular4-seed)
 
-
-[![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=me%40leduong%2ecom&lc=VN&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2dpaypal%2dblue%2epng%3aNonHosted)
+[![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://goo.gl/mgesnb)
 [![Gratipay Team](https://img.shields.io/gratipay/Angular-VN/shields.svg)](https://gratipay.com/Angular-VN)
-
 
 [![Build Status](https://travis-ci.org/AngularVN/angular4-seed.svg?branch=master)](https://travis-ci.org/AngularVN/angular4-seed)
 [![Code Climate](https://codeclimate.com/github/AngularVN/angular4-seed/badges/gpa.svg)](https://codeclimate.com/github/AngularVN/angular4-seed)
@@ -97,105 +95,105 @@ angular4-seed
 ├── package.json
 ├── README.md
 ├── src
-│   ├── app
-│   │   ├── about
-│   │   │   └── components
-│   │   │       ├── about.html
-│   │   │       └── about.ts
-│   │   ├── app.component.ts
-│   │   ├── app.html
-│   │   ├── app.module.ts
-│   │   ├── app.routing.ts
-│   │   ├── blog
-│   │   │   ├── routing.ts
-│   │   │   └── service.ts
-│   │   ├── common
-│   │   │   └── error
-│   │   │       ├── error403.html
-│   │   │       ├── error403.ts
-│   │   │       ├── error404.html
-│   │   │       ├── error404.ts
-│   │   │       ├── error500.html
-│   │   │       └── error500.ts
-│   │   ├── layout
-│   │   │   ├── header
-│   │   │   │   ├── header.html
-│   │   │   │   ├── header.less
-│   │   │   │   └── header.ts
-│   │   │   ├── layout.module.ts
-│   │   │   └── sidebar
-│   │   │       ├── sidebar.html
-│   │   │       ├── sidebar.less
-│   │   │       └── sidebar.ts
-│   │   ├── main.ts
-│   │   ├── setting
-│   │   │   ├── routing,ts
-│   │   │   └── service.ts
-│   │   ├── shared
-│   │   │   ├── components
-│   │   │   ├── directives
-│   │   │   │   └── gravatar.ts
-│   │   │   ├── pipes
-│   │   │   │   ├── capitalize.ts
-│   │   │   │   ├── characters.ts
-│   │   │   │   └── trim.ts
-│   │   │   ├── services
-│   │   │   │   ├── local.ts
-│   │   │   │   └── session.ts
-│   │   │   └── shared.module.ts
-│   │   ├── tables
-│   │   │   ├── dynamic.html
-│   │   │   ├── dynamic.ts
-│   │   │   ├── responsive.html
-│   │   │   ├── responsive.ts
-│   │   │   ├── static.html
-│   │   │   └── static.ts
-│   │   ├── translate
-│   │   │   ├── lang-en.ts
-│   │   │   ├── lang-es.ts
-│   │   │   ├── lang-zh.ts
-│   │   │   ├── pipe.ts
-│   │   │   ├── service.ts
-│   │   │   └── translations.ts
-│   │   ├── ui
-│   │   │   ├── buttons.html
-│   │   │   ├── buttons.ts
-│   │   │   ├── components.html
-│   │   │   ├── components.ts
-│   │   │   ├── grids.html
-│   │   │   ├── grids.ts
-│   │   │   ├── icons.html
-│   │   │   ├── icons.ts
-│   │   │   ├── typography.html
-│   │   │   └── typography.ts
-│   │   └── user
-│   │       ├── login
-│   │       │   ├── component.ts
-│   │       │   ├── login.html
-│   │       │   └── login.less
-│   │       ├── pipes.ts
-│   │       ├── profile
-│   │       │   ├── component.ts
-│   │       │   ├── profile.html
-│   │       │   └── profile.less
-│   │       ├── register
-│   │       │   ├── component.ts
-│   │       │   ├── register.html
-│   │       │   └── register.less
-│   │       ├── routing.ts
-│   │       ├── services.ts
-│   │       └── user.less
-│   ├── img
-│   │   └── g1.jpg
-│   ├── index.html
-│   └── less
-│       ├── app.less
-│       ├── body.less
-│       ├── buttons.less
-│       ├── custom.less
-│       ├── footer.less
-│       ├── layout.less
-│       └── var.less
+│   ├── app
+│   │   ├── about
+│   │   │   └── components
+│   │   │       ├── about.html
+│   │   │       └── about.ts
+│   │   ├── app.component.ts
+│   │   ├── app.html
+│   │   ├── app.module.ts
+│   │   ├── app.routing.ts
+│   │   ├── blog
+│   │   │   ├── routing.ts
+│   │   │   └── service.ts
+│   │   ├── common
+│   │   │   └── error
+│   │   │       ├── error403.html
+│   │   │       ├── error403.ts
+│   │   │       ├── error404.html
+│   │   │       ├── error404.ts
+│   │   │       ├── error500.html
+│   │   │       └── error500.ts
+│   │   ├── layout
+│   │   │   ├── header
+│   │   │   │   ├── header.html
+│   │   │   │   ├── header.less
+│   │   │   │   └── header.ts
+│   │   │   ├── layout.module.ts
+│   │   │   └── sidebar
+│   │   │       ├── sidebar.html
+│   │   │       ├── sidebar.less
+│   │   │       └── sidebar.ts
+│   │   ├── main.ts
+│   │   ├── setting
+│   │   │   ├── routing,ts
+│   │   │   └── service.ts
+│   │   ├── shared
+│   │   │   ├── components
+│   │   │   ├── directives
+│   │   │   │   └── gravatar.ts
+│   │   │   ├── pipes
+│   │   │   │   ├── capitalize.ts
+│   │   │   │   ├── characters.ts
+│   │   │   │   └── trim.ts
+│   │   │   ├── services
+│   │   │   │   ├── local.ts
+│   │   │   │   └── session.ts
+│   │   │   └── shared.module.ts
+│   │   ├── tables
+│   │   │   ├── dynamic.html
+│   │   │   ├── dynamic.ts
+│   │   │   ├── responsive.html
+│   │   │   ├── responsive.ts
+│   │   │   ├── static.html
+│   │   │   └── static.ts
+│   │   ├── translate
+│   │   │   ├── lang-en.ts
+│   │   │   ├── lang-es.ts
+│   │   │   ├── lang-zh.ts
+│   │   │   ├── pipe.ts
+│   │   │   ├── service.ts
+│   │   │   └── translations.ts
+│   │   ├── ui
+│   │   │   ├── buttons.html
+│   │   │   ├── buttons.ts
+│   │   │   ├── components.html
+│   │   │   ├── components.ts
+│   │   │   ├── grids.html
+│   │   │   ├── grids.ts
+│   │   │   ├── icons.html
+│   │   │   ├── icons.ts
+│   │   │   ├── typography.html
+│   │   │   └── typography.ts
+│   │   └── user
+│   │       ├── login
+│   │       │   ├── component.ts
+│   │       │   ├── login.html
+│   │       │   └── login.less
+│   │       ├── pipes.ts
+│   │       ├── profile
+│   │       │   ├── component.ts
+│   │       │   ├── profile.html
+│   │       │   └── profile.less
+│   │       ├── register
+│   │       │   ├── component.ts
+│   │       │   ├── register.html
+│   │       │   └── register.less
+│   │       ├── routing.ts
+│   │       ├── services.ts
+│   │       └── user.less
+│   ├── img
+│   │   └── g1.jpg
+│   ├── index.html
+│   └── less
+│       ├── app.less
+│       ├── body.less
+│       ├── buttons.less
+│       ├── custom.less
+│       ├── footer.less
+│       ├── layout.less
+│       └── var.less
 ├── systemjs.config.js
 ├── tree.txt
 ├── tsconfig.json
