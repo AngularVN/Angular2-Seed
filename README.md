@@ -1,5 +1,5 @@
 # Angular4 with TypeScript and Gulp
-[https://github.com/AngularVN/angular4-seed](https://github.com/AngularVN/angular4-seed)
+[Switch to Angualr4-Seed](https://github.com/AngularVN/angular4-seed)
 
 [![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=me%40leduong%2ecom&lc=VN&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2dpaypal%2dblue%2epng%3aNonHosted)
 [![Gratipay Team](https://img.shields.io/gratipay/Angular-VN/shields.svg)](https://gratipay.com/Angular-VN)
