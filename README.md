@@ -1,6 +1,6 @@
 # Angular4 with TypeScript and Gulp
 
-## [Switch to Angular4-Seed](https://github.com/AngularVN/angular4-seed)
+## [Switch to Angular4-Seed] (https://github.com/AngularVN/angular4-seed)
 
 [![Paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://goo.gl/mgesnb)
 [![Gratipay Team](https://img.shields.io/gratipay/Angular-VN/shields.svg)](https://gratipay.com/Angular-VN)
@@ -56,31 +56,23 @@ npm run build
 npm run serve
 ```
 
-### Build the project:
-
-```bash
-npm run clean
-npm run build
-```
-
 `build` directory should be created during the build
+The application should be displayed in the browser.
 
-### Start with livereload
+
+### Build and Start the project:
+
 ```bash
 npm run clean
 npm run build
 npm start
 ```
 
-The application should be displayed in the browser.
-
-
 ## deploy on Cloud 9
 
 ```bash
 nvm install 6
 nvm alias default 6
-sudo npm install npm@3 -g
 npm i
 npm run build
 npm run serve
@@ -88,7 +80,6 @@ npm run serve
 
 ```
 angular4-seed
-.
 ├── bs-config.js
 ├── _config.yml
 ├── gulpfile.js
